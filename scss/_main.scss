@@ -1,0 +1,64 @@
+@import "variables";
+
+.row2{
+    height: 70px;
+}
+
+.row3{
+    height: 450px;
+}
+ 
+.row4{
+    width: 100%;
+    background-color: #D9D9D9;
+}
+
+.row5{
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.row6{
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+}
+
+.row8{
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.row9{
+    display: flex;
+    justify-content: center;
+    
+}
+
+p{
+    display: flex;
+    font-family: $textoS;
+    color: black;
+}
+
+h3{
+    font-family: $textoS;
+    color: black;
+    font-weight: bold;
+}
+
+h4{
+    font-family: $textoS;
+    color: black;
+    font-weight: bold;
+}
+
+h5{
+    font-family: $textoS;
+    color: black;
+    font-weight: bold;
+}
+
